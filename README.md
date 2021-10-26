@@ -1,5 +1,9 @@
 # Streamlabs chatbot - Trivia script
 
+## Trivia game that's automatically pulling out questions from Open Trivia Database.
+
+To change question category or difficulty go here, generate a link and replace it in **getResultMultiple** function for multiple option questions, or in **getResultTrueOrFalse** for true/false questions.
+
 Commands :
 
 !trivia multiple - ask multiple choice question
